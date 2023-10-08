@@ -7,28 +7,19 @@
     Prophet features a decomposable time series with four components[^1]: growth (or trend) g(t), seasonality s(t), holidays h(t) (if present) and error term? (e).    
     
 
-and this
+## AutoARIMA
 
-=== "Tab 1"
+!!! info "Model info"
+    *doplnit*
 
-    Lorem ipsum dolor sit amet, (1) consectetur adipiscing elit.
-    { .annotate }
-
-    1.  :man_raising_hand: I'm an annotation!
-
-=== "Tab 2"
-
-    Phasellus posuere in sem ut cursus (1)
-    { .annotate }
-
-    1.  :woman_raising_hand: I'm an annotation as well!
-
+    Automatically selected the best ARIMA model using Akaike Information Criterion (AICc).
 
 and this
+
 
 The HTML specification is maintained by the W3C.
 
-*[HTML]: Hyper Text Markup Language
+*[ARIMA]: AutoRegressive Integrated Moving Average
 *[W3C]: World Wide Web Consortium
 
 
