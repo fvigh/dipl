@@ -1,7 +1,7 @@
 site_name: obsidian-mkdocs template
 
 theme:
-  features:
+    features:
     - content.tooltips
     name: 'material'
     palette:
