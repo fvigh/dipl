@@ -1,14 +1,11 @@
 
 ## Prophet
 
-!!! note annotate "Definition (1)"
-
-    The model features a decomposable time series with three components: growth (or trend) g(t), seasonality s(t), holidays h(t) (if present) and error term? (e).    
-    The mathematical equation behind the Prophet model is defined as:
+!!! info "Model info"
     $y(t) = g(t) + s(t) + h(t) + e(t)$
 
-1.  :man_raising_hand: Description of the model!
-
+    Prophet features a decomposable time series with four components[^1]: growth (or trend) g(t), seasonality s(t), holidays h(t) (if present) and error term? (e).    
+    
 
 and this
 
@@ -43,7 +40,7 @@ Lorem ipsum[^1] dolor sit amet, consectetur adipiscing elit.[^2]
 Sed fermentum aliquet enim sit amet tristique. Aliquam blandit, magna vitae tristique dapibus, arcu orci ornare dui, vel elementum nibh nunc ut lorem. Integer efficitur mattis odio, nec rhoncus elit dapibus in. Mauris a nibh maximus, vehicula nunc ac, elementum augue. Fusce metus ex, aliquam eu pharetra tristique, ultrices ut est. Curabitur quis tincidunt elit. Phasellus lobortis quam ac mauris finibus iaculis. Vestibulum fermentum purus enim, quis sagittis tellus elementum eget. Phasellus pellentesque dui sit amet nibh egestas, eget facilisis eros egestas. Donec facilisis dapibus pharetra. Mauris eleifend urna dui, nec blandit tellus elementum non. Integer volutpat vestibulum eros, eget suscipit lorem commodo et. Aliquam venenatis, elit congue sollicitudin lacinia, mauris lectus mattis urna, nec porttitor lacus metus non orci. Nullam non elit ac sem fermentum vestibulum. Duis ultricies nulla nec magna molestie iaculis. Fusce vel gravida quam. 
 
 
-[^1]: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+[^1]: Comparing Prophet and Deep Learning to ARIMA in Forecasting Wholesale Food Prices https://browse.arxiv.org/pdf/2107.12770.pdf
 
 [^2]:
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
