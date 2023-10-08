@@ -4,4 +4,4 @@ Všetky technické informacie o praktickej časti diplomovej práce
 
 ## Modely
 
-Pre ... kliknite na stránku [[Models]].
+Pre zobrazenie dostupných modelov prejdite na stránku [[Models]].
