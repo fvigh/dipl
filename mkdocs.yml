@@ -1,8 +1,6 @@
 site_name: obsidian-mkdocs template
 
 theme:
-    features:
-    - content.tooltips
     name: 'material'
     palette:
 
@@ -26,6 +24,8 @@ theme:
 
 # Extensions
 markdown_extensions:
+  - toc:
+      title: On this page
   - abbr
   - attr_list
   - pymdownx.snippets
