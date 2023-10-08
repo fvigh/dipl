@@ -11,7 +11,7 @@
 2.  :woman_raising_hand: I'm an annotation as well!
 
 
-..--
+and this
 
 === "Tab 1"
 
@@ -26,3 +26,15 @@
     { .annotate }
 
     1.  :woman_raising_hand: I'm an annotation as well!
+
+
+and this
+
+The HTML specification is maintained by the W3C.
+
+*[HTML]: Hyper Text Markup Language
+*[W3C]: World Wide Web Consortium
+
+
+
+:material-information-outline:{ title="Important information" }
