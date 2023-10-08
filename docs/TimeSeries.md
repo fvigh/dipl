@@ -1,14 +1,13 @@
 
-## asd
+## Prophet
 
-!!! note annotate "Phasellus posuere in sem ut cursus (1)"
+!!! note annotate "Definition (1)"
 
-    Lorem ipsum dolor sit amet, (2) consectetur adipiscing elit. Nulla et
-    euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo
-    purus auctor massa, nec semper lorem quam in massa.
+    The model features a decomposable time series with three components: growth (or trend) g(t), seasonality s(t), holidays h(t) (if present) and error term? (e).    
+    The mathematical equation behind the Prophet model is defined as:
+    $y(t) = g(t) + s(t) + h(t) + e(t)$
 
-1.  :man_raising_hand: I'm an annotation!
-2.  :woman_raising_hand: I'm an annotation as well!
+1.  :man_raising_hand: Description of the model!
 
 
 and this
