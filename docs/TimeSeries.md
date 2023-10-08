@@ -4,23 +4,16 @@
 !!! info "Model info"
     $y(t) = g(t) + s(t) + h(t) + e(t)$
 
-    Prophet features a decomposable time series with four components[^1]: growth (or trend) g(t), seasonality s(t), holidays h(t) (if present) and error term? (e).    
+    Prophet features a decomposable time series with four components[^1]: growth (or trend) g(t), seasonality s(t), holidays h(t) (if present) and error term (e).    
     
 
 ## AutoARIMA
 
 !!! info "Model info"
-    *doplnit*
+    Automatically selected ARIMA model using Akaike Information Criterion (AICc).
 
-    Automatically selected the best ARIMA model using Akaike Information Criterion (AICc).
-
-and this
-
-
-The HTML specification is maintained by the W3C.
 
 *[ARIMA]: AutoRegressive Integrated Moving Average
-*[W3C]: World Wide Web Consortium
 
 
 
