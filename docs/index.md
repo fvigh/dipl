@@ -1,6 +1,11 @@
-# Diplomova praca - Wiki
+# Diplomova praca - Úvod
 
-Všetky technické informacie o praktickej časti diplomovej práce
+Technická dokumentácia praktickej časti diplomovej práce
+
+## Features
+- using [StatsForecast](https://nixtla.github.io/statsforecast/) we can train many models efficiently such as [AutoARIMA](https://fvigh.github.io/dipl/Models/#autoarima), AutoETS 
+- check the accuracy and robustness of the models using cross-validation
+
 
 ## Modely
 
