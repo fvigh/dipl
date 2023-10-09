@@ -1,6 +1,8 @@
 site_name: Time series forecasting
 
 theme:
+  features:
+    - navigation.sections
     name: 'material'
     palette:
 
