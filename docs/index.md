@@ -4,13 +4,13 @@
 
 <div class="home_grid" markdown> 
 
-[Log-in Problem] (#){ .md-button .md-button--primary .md-button--stretch }
+[Log-in Problem](#){ .md-button .md-button--primary .md-button--stretch }
 
 [Different Account Issue](#){ .md-button .md-button--primary . md-button--stretch }
 
-[Problem with My Device Problem with My Device Problem with My Device] (#) { .md-button .md-button--primary .md-button--stretch }
+[Problem with My Device Problem with My Device Problem with My Device](#) { .md-button .md-button--primary .md-button--stretch }
 
-[Help with an Order] (#){ .md-button .md-button--primary . md-button--stretch }
+[Help with an Order](#){ .md-button .md-button--primary . md-button--stretch }
 </div>
 
 
