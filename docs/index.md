@@ -1,5 +1,19 @@
 # Diplomova praca - Úvod
 
+
+
+<div class="home_grid" markdown> 
+
+[Log-in Problem] (#){ .md-button .md-button--primary .md-button--stretch }
+
+[Different Account Issue](#){ .md-button .md-button--primary . md-button--stretch }
+
+[Problem with My Device Problem with My Device Problem with My Device] (#) { .md-button .md-button--primary .md-button--stretch }
+
+[Help with an Order] (#){ .md-button .md-button--primary . md-button--stretch }
+</div>
+
+
 Technická dokumentácia praktickej časti diplomovej práce. Tento analytický nástroj je najmodernejšia platforma, ktorá využíva štatistické metódy a strojové učenie na predpovedanie budúcich cien akcií. Ponúka robustné a užívateľsky prívetivé rozhranie, ktoré uľahčuje vykonávanie hĺbkovej finančnej analýzy a zároveň zabezpečuje presné predpovede.
 
 
