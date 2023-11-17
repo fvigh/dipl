@@ -3,14 +3,10 @@
 
 
 <div class="home_grid" markdown> 
-
-[Log-in Problem](#){ .md-button .md-button--primary .md-button--stretch }
-
-[Different Account Issue](#){ .md-button .md-button--primary . md-button--stretch }
-
-[Problem with My Device Problem with My Device Problem with My Device](#) { .md-button .md-button--primary .md-button--stretch }
-
-[Help with an Order](#){ .md-button .md-button--primary . md-button--stretch }
+[Button1](#){.mdbutton .mdbutton--stretch}
+[Button2](#){.mdbutton .mdbutton--stretch}
+[Button3](#){.mdbutton .mdbutton--stretch}
+[Button4](#){.mdbutton .mdbutton--stretch}
 </div>
 
 
