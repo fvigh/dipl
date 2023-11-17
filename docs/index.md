@@ -4,9 +4,9 @@ Technická dokumentácia praktickej časti diplomovej práce. Tento analytický 
 
 
 ## Funkcie
-- Analýza časových radov: nástroj ponúka pokročilé funkcie na algoritmickú, kvantitatívnu a technickú analýzu historických údajov na efektívne predpovede ceny akcií/ETF.
-- Portfólio manažment: získajte prehľad o miere vystavenia sa riziku pomocou funkcie optimalizácie portfólia.
-- Predpovede: dostupné mnohé modely na predikciu pomocou štatistických metód aj strojového učenia 
+- **Analýza časových radov:** nástroj ponúka pokročilé funkcie na algoritmickú, kvantitatívnu a technickú analýzu historických údajov na efektívne predpovede ceny akcií/ETF.
+- **Portfólio manažment:** získajte prehľad o miere vystavenia sa riziku pomocou funkcie optimalizácie portfólia.
+- **Predpovede:** dostupné mnohé modely na predikciu pomocou štatistických metód aj strojového učenia 
 - Aktuálne informácie o najnovších udalostiach vo svete investícií. Všetky dôležité správy a trendy na jednom mieste.
 
 
