@@ -4,9 +4,9 @@
 
 <div class="home_grid" markdown>
 
-[Models](Models.md){ .md-button .md-button--primary .md-button--stretch }
+[:fontawesome-solid-gears: Models](Models.md){ .md-button .md-button--primary .md-button--stretch }
 
-[Architecture](https://nixtla.github.io/statsforecast/){ .md-button .md-button--primary .md-button--stretch }
+:fontawesome-solid-gears:[Architecture](https://nixtla.github.io/statsforecast/){ .md-button .md-button--primary .md-button--stretch }
 
 [Exmples](#){ .md-button .md-button--primary .md-button--stretch }
 
