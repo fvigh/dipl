@@ -6,11 +6,11 @@
 
 [:fontawesome-solid-gears: Models](Models.md){ .md-button .md-button--primary .md-button--stretch }
 
-:fontawesome-solid-gears:[Architecture](https://nixtla.github.io/statsforecast/){ .md-button .md-button--primary .md-button--stretch }
+[:fontawesome-solid-database: Architecture](https://nixtla.github.io/statsforecast/){ .md-button .md-button--primary .md-button--stretch }
 
-[Exmples](#){ .md-button .md-button--primary .md-button--stretch }
+[:fontawesome-solid-list: Exmples](#){ .md-button .md-button--primary .md-button--stretch }
 
-[More info](#){ .md-button .md-button--primary .md-button--stretch }
+[:fontawesome-solid-circle-info: More info](#){ .md-button .md-button--primary .md-button--stretch }
 
 </div>
 
