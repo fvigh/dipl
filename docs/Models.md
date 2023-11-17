@@ -1,5 +1,8 @@
 ## Supported models
 
+- kontrola accuracy and robustness of the models using cross-validation
+- using [StatsForecast](https://nixtla.github.io/statsforecast/) we can train many models efficiently such as [AutoARIMA](https://fvigh.github.io/dipl/Models/#autoarima), AutoETS 
+
 ### Prophet
 Facebook Prophet is an open-source library for univariate time series forecasting. It implements a procedure for forecasting time series data based on
 an additive model where non-linear trends are fit with yearly, weekly, and daily seasonality, plus holiday effects. It works best with time series
