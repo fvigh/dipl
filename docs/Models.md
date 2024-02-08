@@ -1,4 +1,4 @@
-## Podporované modely - kontrola accuracy and robustness of the models using cross-validation
+## Podporované modely:
 - [AutoARIMA](https://fvigh.github.io/dipl/Models/#autoarima)
 - [AutoETS](https://fvigh.github.io/dipl/Models/#autoets)
 - [AutoTheta](https://fvigh.github.io/dipl/Models/#autotheta)
