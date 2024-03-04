@@ -1,0 +1,10 @@
+.md-typeset .md-button--stretch { width: 100%; height: 100%;}
+.md-typeset .home_grid{
+  display: grid; 
+  column-gap: 30px; 
+  row-gap: 5px; 
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+.md-typeset h1 {
+  color: white;
+}
