@@ -19,6 +19,6 @@ Technická dokumentácia praktickej časti diplomovej práce. Tento analytický 
 
 [:fontawesome-solid-play: Demo](http://127.0.0.1:7862/){ .md-button .md-button--primary .md-button--stretch }
 
-[:fontawesome-solid-circle-info: Viac info](#){ .md-button .md-button--primary .md-button--stretch }
+[:fontawesome-solid-circle-info: Viac info](Tickers.md){ .md-button .md-button--primary .md-button--stretch }
 
 </div>
